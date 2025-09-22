@@ -1,3 +1,5 @@
 O controle de versão na pratica acaba ajudando muito empresas grandes a simplificar o compartilhamento e o grande numero de acesso ao mesmo código por diferentes desenvolvedores, a capacidade de criar brunches, isolar o desenvolvimento e depois juntar tudo é fundamental para grandes projetos.
 
 //documento editado pelo git
+
+// alterado novamente
